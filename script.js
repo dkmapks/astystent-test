@@ -4,7 +4,7 @@ function answer() {
 
   const responses = {
     "ile to 2+2": {
-      audio: "audio/2plus2.mp3",
+      audio: "2plus2.m4a",
       text: "4"
     },
     "jak masz na imię": {
