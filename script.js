@@ -8,7 +8,7 @@ function answer() {
       text: "4"
     },
     "jak masz na imię": {
-      audio: "audio/imie.mp3",
+      audio: "imie.m4a",
       text: "Mam na imię Dominik"
     }
     // Dodaj więcej pytań i plików audio tutaj
